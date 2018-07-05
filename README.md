@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/rahil-p/rahil-site/master/images/sail.png" width="84" height="90" style="margin-top:38px; margin-left:-16px; position:absolute;">
 
-<br />
 <h1>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SailSim
 </h1>
