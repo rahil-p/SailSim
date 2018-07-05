@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rahil-p/rahil-site/master/images/sail.png" width="84" height="90" style="float:right;">
+<img src="https://raw.githubusercontent.com/rahil-p/rahil-site/master/images/sail.png" width="84" height="90" style="float:right; margin-left: -10px;">
 
 # SailSim
 
